@@ -174,7 +174,7 @@ The completed Excel dashboard contains:
 
 ### Dashboard Preview
 
-![Customer Retention & Churn Dashboard](Customer_Retention_Churn_Dashboard.png)
+![Customer Retention & Churn Dashboard](./Customer_Retention_Churn_Dashboard.png)
 
 ---
 
